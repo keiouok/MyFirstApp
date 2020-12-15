@@ -10,4 +10,4 @@ MyFirstApp/app/release/app-release.apk
 ```
 
 # design
-<p><img src ./photo/moegi_counter1.png></p>
+![design](./photo/moegi_counter1.png)
